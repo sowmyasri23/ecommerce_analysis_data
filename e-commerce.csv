@@ -1,0 +1,11 @@
+OrderID,Product,Category,City,Price,Quantity
+1,Laptop,Electronics,Hyderabad,60000,1
+2,Phone,Electronics,Chennai,20000,2
+3,Shoes,Fashion,Delhi,3000,3
+4,Watch,Fashion,Mumbai,5000,2
+5,Tablet,Electronics,Hyderabad,15000,2
+6,Shirt,Fashion,Chennai,2000,4
+7,Laptop,Electronics,Delhi,62000,1
+8,Phone,Electronics,Mumbai,21000,2
+9,Shoes,Fashion,Hyderabad,3200,2
+10,Tablet,Electronics,Chennai,16000,1
